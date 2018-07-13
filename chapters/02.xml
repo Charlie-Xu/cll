@@ -1,5 +1,5 @@
 <chapter xml:id="chapter-tour">
-  <title><anchor xml:id="c2"/>Lojban语法快览：有简图</title>
+  <title><anchor xml:id="c2"/>Lojban语法速览：一图胜千言</title>
   <mediaobject xml:id="chapter-tour-picture">
     <textobject><phrase>第二章的图片</phrase></textobject>
     <imageobject>
@@ -7,8 +7,8 @@
     </imageobject>
   </mediaobject>
   <section xml:id="section-bridi">
-    <title><anchor xml:id="c2s1"/>bridi的概念</title>
-    <para> <indexterm type="general"><primary>bridi</primary><secondary>概念</secondary></indexterm> 本章给出了Lojban句子结构的有简图e的例子。先给出最一般的模式，再接上连续的Lojban句子基本成分的变体。有许多更多的能力未在本章给出，但在之后的章节中详细地给出了，所以本章是之后在全书中更缓慢地给出的材料的
+    <title><anchor xml:id="c2s1"/>bridi（谓句）的概念</title>
+    <para> <indexterm type="general"><primary>bridi</primary><secondary>概念</secondary></indexterm> 本章用图解举例来解释Lojban基本的句子结构。我们先给出最一般的模式，再相继给出一些 Lojban 句子基本成分的变体。（逻辑语的）许多更多的能力未在本章给出，但在之后的章节中详细地给出了，所以本章是之后在全书中更缓慢地给出的材料的
     <quote>快览</quote>。它也介绍了用以讨论Lojban语法的大部分Lojban词汇。</para>
     <para> 
 
@@ -77,11 +77,11 @@
 
 
  在一种关系中，有确定数量的事物被联系了。在汉语中，比如说，
-    <quote>给予</quote>有三个位：给予者、被给予者和接受者。例如：</para>
+    <quote>赠予</quote>有三个位：赠予者、被赠予者和赠品。例如：</para>
     <example xml:id="example-random-id-DE08">
       <title>
         <anchor xml:id="c2e1d4"/>
-        <indexterm type="example"><primary>给予</primary></indexterm>
+        <indexterm type="example"><primary>赠予</primary></indexterm>
       </title>
       <para>John将那本书给了Sam。</para>
     </example>
@@ -89,11 +89,11 @@
     <example xml:id="example-random-id-IBBE">
       <title>
         <anchor xml:id="c2e1d5"/>
-        <indexterm type="example"><primary>给予</primary></indexterm>
+        <indexterm type="example"><primary>赠予</primary></indexterm>
       </title>
       <para>Sam将那本书给了John。</para>
     </example>
-    <para role="noindent">有两种不同的意思因为
+    <para role="noindent">有两种不同的意思。因为
     <quote>John</quote>和
     <quote>Sam</quote>的相对位置被交换了。拓展地说，</para>
     <example xml:id="example-random-id-DxbA">
